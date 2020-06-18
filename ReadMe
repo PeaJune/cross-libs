@@ -1,0 +1,5 @@
+
+
+目录下包含以下两个已编译完成的目录
+__install_aarch64 : aarch64-himix100-linux-
+__install_arm     : arm-himix200-linux-
